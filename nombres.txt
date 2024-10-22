@@ -1,2 +1,6 @@
 # practica6
+
  - Daniel
+=======
+Sergio
+
